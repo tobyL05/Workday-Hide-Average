@@ -6,3 +6,5 @@
 3. Turn on Developer mode on the top-right corner.
 4. Click "Load Unpacked Extension" on the top left corner.
 5. Select the ```dist``` folder.
+
+## Demo
