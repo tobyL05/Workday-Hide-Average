@@ -5,11 +5,7 @@
     "version": "1.0.0",
     "action": { "default_popup": "index.html" },
     "permissions": [
-        "storage",
-        "activeTab",
-        "scripting",
-        "tabs",
-        "webNavigation"
+        "storage"
     ],
     "host_permissions": ["https://wd10.myworkday.com/ubc/**"],
     "background": {
