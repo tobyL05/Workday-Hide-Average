@@ -8,5 +8,5 @@
 5. Select the ```dist``` folder.
 
 ## Demo
-https://github.com/tobyL05/Workday-Hide-Average/assets/79076160/ef8fb784-2065-4329-887b-23e92920e172
+https://github.com/tobyL05/Workday-Hide-Average/assets/79076160/b30b8d31-dd9c-48d5-8010-6cbd905efb8b
 
