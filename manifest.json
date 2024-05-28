@@ -7,15 +7,21 @@
     "permissions": [
         "storage"
     ],
-    "host_permissions": ["https://wd10.myworkday.com/ubc/**"],
+    "host_permissions": ["https://wd10.myworkday.com/ubc/*"],
     "background": {
         "service_worker": "src/background.ts",
         "type": "module"
       },
     "content_scripts" : [
         {
-            "matches": ["https://wd10.myworkday.com/ubc/**"],
+            "matches": ["https://wd10.myworkday.com/ubc/*"],
             "js": ["src/scripts/content_script.ts"]
+        }
+    ],
+    "web_accessible_resources": [
+        {
+            "resources": ["hide.css"],
+            "matches": ["<all_urls>"]
         }
     ]
   }
