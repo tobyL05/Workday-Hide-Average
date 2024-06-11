@@ -1,12 +1,12 @@
 
-.WNJJ > div[id^="56$517193"] {
+.WI-I > div[id^="56$517193"] {
     opacity: 0;
     transition: 0.2s ease-out;
     transition-delay: 0.2s;
     padding-right:40px;
 }
 
-.WNJJ > div[id^="56$517193"]:hover {
+.WI-I > div[id^="56$517193"]:hover {
     transition: 0.2s ease-out;
     opacity: 100;
 }
