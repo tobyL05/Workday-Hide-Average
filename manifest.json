@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Hidden Average",
+    "name": "UBC Hide Average",
     "description": "Hide your Workday average.",
     "version": "1.0.0",
     "action": { "default_popup": "index.html" },
