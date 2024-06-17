@@ -1,4 +1,5 @@
 # Hide your Average on Workday
+This extension depends on the Workday website so updates to their website might break this extension.
 
 ## How to install
 1. download the ```dist``` folder.
